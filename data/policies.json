@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Secure Future Term Life",
+        "type": "Term Life",
+        "premium": 5000,
+        "coverage": 1000000
+    },
+    {
+        "id": 2,
+        "name": "Health Shield Plan",
+        "type": "Health",
+        "premium": 3000,
+        "coverage": 500000
+    },
+    {
+        "id": 3,
+        "name": "Car Protect Plan",
+        "type": "Vehicle",
+        "premium": 2000,
+        "coverage": 300000
+    },
+    {
+        "id": 4,
+        "name": "Secure Future Term Life",
+        "type": "Term",
+        "premium": 6000,
+        "coverage": 6000000
+    },
+    {
+        "id": 5,
+        "name": "Health Shield Plan",
+        "type": "Life",
+        "premium": 7000,
+        "coverage": 800000
+    },
+    {
+        "id": 6,
+        "name": "Car Protect Plan",
+        "type": "Vehicle term",
+        "premium": 8000,
+        "coverage": 200000
+    },
+    {
+        "id": 7,
+        "name": "Car Protect Plan",
+        "type": "Vehicle",
+        "premium": 2000,
+        "coverage": 300000
+    },
+    {
+        "id": 8,
+        "name": "Secure Future Term Life",
+        "type": "Term",
+        "premium": 6000,
+        "coverage": 6000000
+    },
+    {
+        "id": 9,
+        "name": "Health Shield Plan",
+        "type": "Life",
+        "premium": 7000,
+        "coverage": 800000
+    },
+    {
+        "id": 10,
+        "name": "Car Protect Plan",
+        "type": "term",
+        "premium": 8000,
+        "coverage": 200000
+    }
+]
